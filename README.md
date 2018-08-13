@@ -7,7 +7,7 @@ Python 3.6 >~
 Mongo
 `
 
-#### Configure virtualenv
+#### VIRTUALENV
 
 ```bash
 $ cd hub-rest
@@ -22,7 +22,7 @@ $ hug -f app.py
 ```
 
 
-`Dependecy`
+#### DEPENDECY
 
 ```bash
 astroid==2.0.4
